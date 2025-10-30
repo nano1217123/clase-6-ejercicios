@@ -9,7 +9,7 @@ let numero = Number(prompt("Ingrese un número: "));
 
 
 if (numero % 2 === 0) {
-  console.log(`El número ${numero} es PAR ✅`);
+  console.log(`El número ${numero} es PAR`);
 } else {
-  console.log(`El número ${numero} es IMPAR ❌`);
+  console.log(`El número ${numero} es IMPAR`);
 }
